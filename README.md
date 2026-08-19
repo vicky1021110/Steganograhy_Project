@@ -220,6 +220,6 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Vicky**
+**Vigneshwaran**
 
 ### Project: Image Steganography using LSB in C
